@@ -1,10 +1,3 @@
-/* Name: Naz Serrano
- * ID: 110129474
- * Due Date: Dec 5 2024
- */
-
-package assignment_2;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
